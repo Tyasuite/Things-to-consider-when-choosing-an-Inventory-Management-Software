@@ -1,0 +1,2 @@
+# Things-to-consider-when-choosing-an-Inventory-Management-Software
+ Managing inventory is a tedious task as it involves a lot of accuracy and precision. From inventory tracking to delivery to re-order and replacement, everything needs a proper management process. You cannot afford to dissatisfy your customer in this highly competitive world. Thus to manage everything efficiently, it is important to have an inventory management tool.
